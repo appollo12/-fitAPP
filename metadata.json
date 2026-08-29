@@ -1,0 +1,6 @@
+{
+  "name": "የኛFit",
+  "description": "AI-powered fitness, nutrition, and lifestyle coaching for Ethiopian users with adaptive plans, budget-aware local meal recommendations, and aesthetic physique analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
